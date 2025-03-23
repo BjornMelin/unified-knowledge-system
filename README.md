@@ -4,14 +4,25 @@ A comprehensive system for integrating multiple knowledge sources into a unified
 
 ## Table of Contents
 
-- [Overview](#overview)
-- [Architecture](#architecture)
-- [Components](#components)
-- [Setup Instructions](#setup-instructions)
-- [Performance Benchmarks](#performance-benchmarks)
-- [Implementation Timeline](#implementation-timeline)
-- [Development](#development)
-- [License](#license)
+- [🧠 Unified Knowledge Management System](#-unified-knowledge-management-system)
+  - [Table of Contents](#table-of-contents)
+  - [Overview](#overview)
+  - [Architecture](#architecture)
+  - [Components](#components)
+    - [Web Content Acquisition](#web-content-acquisition)
+    - [Knowledge Processing](#knowledge-processing)
+    - [Knowledge Storage](#knowledge-storage)
+    - [MCP Server Layer](#mcp-server-layer)
+    - [Integration Layer](#integration-layer)
+    - [Client Layer](#client-layer)
+  - [Setup Instructions](#setup-instructions)
+    - [Prerequisites](#prerequisites)
+    - [Installation](#installation)
+  - [Performance Benchmarks](#performance-benchmarks)
+  - [Cost Comparison](#cost-comparison)
+  - [Implementation Timeline](#implementation-timeline)
+  - [Development](#development)
+  - [License](#license)
 
 ## Overview
 
